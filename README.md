@@ -7,7 +7,6 @@ This is a command line tool to search base stats of POKEMON.
 ## Usage
 Clone software:
 ```bash
-$ cd
 $ git clone https://github.com/donchan922/search_pokemon_base_stats.git
 $ cd search_pokemon_base_stats/source
 ```
