@@ -7,25 +7,25 @@ This is a command line tool to search base stats of POKEMON.
 ## Usage
 Clone software:
 ```bash
-$ cd
 $ git clone https://github.com/donchan922/search_pokemon_base_stats.git
+$ cd search_pokemon_base_stats/source
 ```
 
 Execute following command:
 ```bash
-$ python ~/search_pokemon_base_stats/source/search_base_stats.py POKEMON_NAME
+$ python search_base_stats.py POKEMON_NAME
 ```
 
 For Example:
 ```bash
-$ python ~/search_pokemon_base_stats/source/search_base_stats.py ピカチュウ
+$ python search_base_stats.py ピカチュウ
 
 No.,ポケモン名,HP,攻撃,防御,特攻,特防,素早,合計
 025,ピカチュウ,35,55,40,50,50,90,320
 ```
 
 ```bash
-$ python ~/search_pokemon_base_stats/source/search_base_stats.py ネクロズマ
+$ python search_base_stats.py ネクロズマ
 
 No.,ポケモン名,HP,攻撃,防御,特攻,特防,素早,合計
 800,ネクロズマ,97,107,101,127,89,79,600
@@ -35,7 +35,7 @@ No.,ポケモン名,HP,攻撃,防御,特攻,特防,素早,合計
 ```
 
 ```bash
-$ python ~/search_pokemon_base_stats/source/search_base_stats.py メガルカリオ ジャローダ
+$ python search_base_stats.py メガルカリオ ジャローダ
 
 No.,ポケモン名,HP,攻撃,防御,特攻,特防,素早,合計
 497,ジャローダ,75,75,95,75,95,113,528
