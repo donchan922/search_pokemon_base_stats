@@ -14,7 +14,7 @@ def main():
 
   for arg in sys.argv:
     for line in lines:
-      if line.find(arg) >= 0:
+      if arg in line:
         print line[:-1]
 
 if __name__ == '__main__':
