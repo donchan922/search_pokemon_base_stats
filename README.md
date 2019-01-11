@@ -2,7 +2,7 @@
 This is a command line tool to search base stats of POKEMON.
 
 ## Requirements
-- Python 2.x
+- Python 2.7+
 
 ## Usage
 Clone software:
