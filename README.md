@@ -1,10 +1,10 @@
 # search_pokemon_base_stats
 This is a command line tool to search base stats of POKEMON.
 
-## Requirements
+## ✅ Requirements
 - Python 2.7+
 
-## Usage
+## 🚀 Usage
 Clone software:
 ```bash
 $ git clone https://github.com/donchan922/search_pokemon_base_stats.git
@@ -42,5 +42,15 @@ No.,ポケモン名,HP,攻撃,防御,特攻,特防,素早,合計
 448,メガルカリオ,70,145,88,140,70,112,625
 ```
 
-## License
-This software is released under the MIT License, see LICENSE.
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome.
+
+## 👤 Author
+- Twitter: [@donchan922](https://twitter.com/donchan922)
+- Github: [donchan922](https://github.com/donchan922)
+
+## ⭐️ Show your support
+Please STAR this repository if this software helped you!
+
+## 📝 License
+This software is released under the MIT License.
